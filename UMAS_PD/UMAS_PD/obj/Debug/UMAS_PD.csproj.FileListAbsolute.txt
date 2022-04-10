@@ -1,0 +1,7 @@
+E:\OOP\week4\UMAS_PD\UMAS_PD\bin\Debug\UMAS_PD.exe.config
+E:\OOP\week4\UMAS_PD\UMAS_PD\bin\Debug\UMAS_PD.exe
+E:\OOP\week4\UMAS_PD\UMAS_PD\bin\Debug\UMAS_PD.pdb
+E:\OOP\week4\UMAS_PD\UMAS_PD\obj\Debug\UMAS_PD.csproj.AssemblyReference.cache
+E:\OOP\week4\UMAS_PD\UMAS_PD\obj\Debug\UMAS_PD.csproj.CoreCompileInputs.cache
+E:\OOP\week4\UMAS_PD\UMAS_PD\obj\Debug\UMAS_PD.exe
+E:\OOP\week4\UMAS_PD\UMAS_PD\obj\Debug\UMAS_PD.pdb
